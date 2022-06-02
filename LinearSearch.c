@@ -31,7 +31,7 @@ int main()
 
     while(i < n && arr[i]!=key)
     {
-        delay();h
+        delay();
        i++;
     }
 
